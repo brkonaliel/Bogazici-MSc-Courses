@@ -1,0 +1,10 @@
+Please put CompLearning.m drawSphere.m generate.m and Plot.m in the same folder.
+
+1) Run CompLearning, the process will end after one epoch, if a mean is stuck between two clusters please cut the process and re-run the file, this will
+change the initial positions and a convergance will be observed eventually.
+
+2) After convergence is observed, please run Plot to see the path of the means.
+
+3) The plots are animated to see all clusters means etc. 
+
+4) Plot.m is a infinite loop created for presentation of paths and means
